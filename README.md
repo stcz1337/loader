@@ -6,3 +6,4 @@ use debug x86 to build
 for support
 
 - discord : .sticzus
+- telegram : sticzus1337
