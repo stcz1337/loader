@@ -1,4 +1,3 @@
-// jebac dawisia 123
 #include <iostream>
 #include <windows.h>
 #include <TlHelp32.h>
