@@ -1,0 +1,2 @@
+# loadercsgo
+simple cpp loader 
