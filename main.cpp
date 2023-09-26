@@ -66,12 +66,12 @@ int main()
         Sleep(3000);
 
 
-        string dwnld_URL = "https://cdn.discordapp.com/attachments/1155941262151667792/1156121299551256576/pandora_desync.dll";
-        string savepath = "C:\\tmp\\pandora_desync.dll";
+        string dwnld_URL = ""; // url to download
+        string savepath = ""; // path 
         URLDownloadToFileA(NULL, dwnld_URL.c_str(), savepath.c_str(), 0, NULL);
         WORD GetProcId(const char* procName);
         // steam
-        const char* dllPath = "C:\\tmp\\pandora_desync.dll";
+        const char* dllPath = ""; // path your dll
         const char* procName = "csgo.exe";
         DWORD procId = 0;
 
